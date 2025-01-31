@@ -5,4 +5,4 @@
 - _Simple HTML, CSS and JS, **Within 15 lines of code**_
 - _For fun, **Only 10 minutes of writing**_
 
-**😌 Check it out:** https://simple-counter.wajid.me
+**😌 Check it out:** https://simple-counter.live.binzek.com/
